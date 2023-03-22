@@ -1,0 +1,8 @@
+.kpt-pipeline
+node_modules
+.DS_Store
+
+.idea
+
+.env*
+!.env.example
